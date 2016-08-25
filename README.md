@@ -22,3 +22,5 @@ $ php xssFinder.php "http://omercitak.com/"
 
 ### result
 ![xssFinder rocks!](xssFinder.png)
+
+Detail: [http://omercitak.com/xssfinder-xss-tespit-araci/](http://omercitak.com/xssfinder-xss-tespit-araci/)
